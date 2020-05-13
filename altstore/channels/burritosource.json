@@ -1,7 +1,7 @@
 {
-	"name": "Burrito's AltStore MAINTAINED",
+	"name": "TerWebz's AltStore",
 	"identifier": "com.terwebz.AltStore",
-	"sourceURL": "https://burritosoftware.github.io/altstore/channels/burritosource.json",
+	"sourceURL": "https://terwebz.github.io/altstore/channels/burritosource.json",
 	"apps": [{
 			"name": "iNDS",
 			"bundleIdentifier": "net.nerd.iNDS",
