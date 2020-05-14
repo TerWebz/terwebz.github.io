@@ -74,8 +74,7 @@
 			"versionDate": "2020-02-06",
 			"versionDescription": "An almost identical copy of the app but inside the Today widget.",
 			"downloadURL": "https://github.com/burritosoftware/Thermometer/raw/master/Thermometer.ipa",
-			"localizedDescription": "Because I'm tired of wondering if my animations are slow or if my device is just really hot.\n\nThe states:\n🥒 Your phone is cooler than you are. Burn.\n🔥 Your device is warm but performance is probably not being throttled.\n🔥🔥 Your device is hot and performance is probably throttled.\n🔥🔥🔥 Your device hurts to hold in places and performance is definitely being throttled.\n\nThis version of Thermometer was compiled by 
-			, and based off Ryan's thermometer at https://github.com/warpling/Thermometer",
+			"localizedDescription": "Because I'm tired of wondering if my animations are slow or if my device is just really hot.\n\nThe states:\n🥒 Your phone is cooler than you are. Burn.\n🔥 Your device is warm but performance is probably not being throttled.\n🔥🔥 Your device is hot and performance is probably throttled.\n🔥🔥🔥 Your device hurts to hold in places and performance is definitely being throttled.\n\nThis version of Thermometer was compiled by , and based off Ryan's thermometer at https://github.com/warpling/Thermometer",
 			"iconURL": "https://raw.githubusercontent.com/warpling/Thermometer/master/iOS/AppIcon.appiconset/Thermometer-83.5%402x.png",
 			"tintColor": "2F2F2F",
 			"size": 377245,
