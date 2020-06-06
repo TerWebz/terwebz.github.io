@@ -163,10 +163,10 @@
 		{
 			"title": "Welcome to TerWebz's AltStore",
 			"identifier": "connection",
-			"caption": "Originally by BurritoSOFTWARE | Version: 1.1b | Tap to visit our website.",
+			"caption": "Originally by BurritoSOFTWARE | Version: 1.2b | Tap to visit our website.",
 			"tintColor": "FF9500",
 			"url": "https://terwebz.github.io/altstore",
-			"date": "2020-02-14",
+			"date": "2020-06-06",
 			"notify": false
 		}
 	],
