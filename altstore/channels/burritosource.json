@@ -107,11 +107,11 @@
 			"bundleIdentifier": "science.xnu.undecimus",
 			"developerName": "Pwn20wnd & Sam Bingner",
 			"subtitle": "The most advanced jailbreak tool.",
-			"version": "4.3.0",
-			"versionDate": "2020-02-15",
+			"version": "5.0.1",
+			"versionDate": "2020-05-24",
 			"versionDescription": "Full-fledged support for A12-A13 devices on iOS 13.0-13.3 with Cydia and system-wide tweak injection",
-			"downloadURL": "https://github.com/pwn20wndstuff/Undecimus/releases/download/v4.3.1/Undecimus-v4.3.1.ipa",
-			"localizedDescription": "unc0ver is a jailbreak, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.\n\nCompatible:\nunc0ver supports iOS 11.0 through to iOS 13.3 (Excluding 12.3-12.3.2).\n\nStable:\nUtilizing the latest stable APT and Mobile Substrate, stability is guaranteed.",
+			"downloadURL": "https://github.com/pwn20wndstuff/Undecimus/releases/download/v5.0.1/unc0ver-v5.0.1.ipa",
+			"localizedDescription": "unc0ver is a jailbreak, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.\n\nCompatible:\nunc0ver supports iOS 11.0 through to iOS 13.5 (Excluding 12.3-12.3.2).\n\nStable:\nUtilizing the latest stable APT and Mobile Substrate, stability is guaranteed.",
 			"iconURL": "https://raw.githubusercontent.com/pwn20wndstuff/Undecimus/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png",
 			"tintColor": "101216",
 			"size": 857669,
@@ -155,9 +155,9 @@
 		{
 			"title": "What's New",
 			"identifier": "whatsnew",
-			"caption": "- Added Thermometer, by Ryan McLeod. Perfect for checking device throttle.\n- Added UTM, note that the screenshot is intended to be a placeholder image for now.\n\nThanks for using TerWebz's AltStore.",
+			"caption": "- unc0ver updated to 5.0.1\n\nThanks for using TerWebz's AltStore.",
 			"tintColor": "018084",
-			"date": "2020-02-13",
+			"date": "2020-06-06",
 			"notify": false
 		},
 		{
