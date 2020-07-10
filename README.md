@@ -1,2 +1,1 @@
-# terwebz.github.io
-webz site
+# terwebz.cf
